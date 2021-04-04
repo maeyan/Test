@@ -1,0 +1,12 @@
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\bin\Debug\net5.0\SampleCode.deps.json
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\bin\Debug\net5.0\SampleCode.dll
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\bin\Debug\net5.0\ref\SampleCode.dll
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\bin\Debug\net5.0\SampleCode.pdb
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\net5.0\SampleCode.csprojAssemblyReference.cache
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\net5.0\SampleCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\net5.0\SampleCode.AssemblyInfoInputs.cache
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\net5.0\SampleCode.AssemblyInfo.cs
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\net5.0\SampleCode.csproj.CoreCompileInputs.cache
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\net5.0\SampleCode.dll
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\net5.0\ref\SampleCode.dll
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\net5.0\SampleCode.pdb

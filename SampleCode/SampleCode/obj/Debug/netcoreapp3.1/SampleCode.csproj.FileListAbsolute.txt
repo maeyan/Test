@@ -1,0 +1,9 @@
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\bin\Debug\netcoreapp3.1\SampleCode.deps.json
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\bin\Debug\netcoreapp3.1\SampleCode.dll
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\bin\Debug\netcoreapp3.1\SampleCode.pdb
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\netcoreapp3.1\SampleCode.csprojAssemblyReference.cache
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\netcoreapp3.1\SampleCode.AssemblyInfoInputs.cache
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\netcoreapp3.1\SampleCode.AssemblyInfo.cs
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\netcoreapp3.1\SampleCode.csproj.CoreCompileInputs.cache
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\netcoreapp3.1\SampleCode.dll
+C:\Users\maeyan\Documents\GitHub\Test\SampleCode\SampleCode\obj\Debug\netcoreapp3.1\SampleCode.pdb
